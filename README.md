@@ -1,5 +1,4 @@
 # Wayland-Wallpaper-changer
-Wallpaper changer for wayland
 
 A minimal PyQt5-based GUI tool for setting wallpapers on Wayland compositors (like Labwc or Sway) using swaybg.
 Features
@@ -25,9 +24,6 @@ sudo apt install python3 python3-pyqt5 swaybg
 
 python3 wall4.py
 
-Or:
-
-./wallpaper_changer.py
 
 A file dialog will appear. Select your desired image (.png, .jpg, .jpeg, .bmp), and it will instantly become your wallpaper using swaybg.
 Script Output
