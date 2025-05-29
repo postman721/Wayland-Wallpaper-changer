@@ -23,7 +23,7 @@ sudo apt install python3 python3-pyqt5 swaybg
 
 ### Run the script:
 
-python3 wallpaper_changer.py
+python3 wall4.py
 
 Or:
 
